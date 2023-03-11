@@ -1,0 +1,4 @@
+module SkiaBackend {
+    requires cplusplus
+    header "UnusedSkiaKitCxxPublic.h"
+}

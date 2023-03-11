@@ -1,0 +1,20 @@
+---
+#https://clang.llvm.org/docs/ClangFormatStyleOptions.html
+BasedOnStyle: LLVM
+UseTab: false
+IndentWidth: 4
+AccessModifierOffset:	-4
+---
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Right
+ColumnLimit: 200
+AllowShortFunctionsOnASingleLine:	Empty
+AllowShortBlocksOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: Never
+AllowShortLambdasOnASingleLine: Empty
+AlignAfterOpenBracket: Align
+#AlignAfterOpenBracket: DontAlign
+#ContinuationIndentWidth: 30
+AlwaysBreakTemplateDeclarations:	true
+

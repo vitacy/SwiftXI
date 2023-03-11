@@ -1,0 +1,4 @@
+module SkiaKitCxx {
+    requires cplusplus
+    header "SkiaKitCxxSwift.h"
+}

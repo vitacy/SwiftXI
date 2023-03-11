@@ -1,0 +1,15 @@
+.DS_Store
+/ThirdParty
+/.build
+/Packages
+/*.xcodeproj
+xcuserdata/
+DerivedData/
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+ThirdParty
+build
+
+public/SkiaKit/SkiaKit.h
+
